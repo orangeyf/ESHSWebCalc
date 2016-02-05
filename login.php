@@ -9,9 +9,8 @@
                     
                     <input class="center" type="text" name="firstname" placeholder="Email or Username">
                     <br /><br />
-                    <!--This is how we link to the next process, no?-->
-                    <a href="http://eshswebcalc-eshscompsci.rhcloud.com/login.php"
-                    <input class="btn btn-primary" type="submit" value="Login">
+                    <!--Are we going to handle the login here, or link it to a separate page for processing?-->
+                    <input <!--href="login.js"-->class="btn btn-primary" type="submit" value="Login">
                     </a>
                 </form>
             </div>
