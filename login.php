@@ -9,10 +9,10 @@
                     
                     <input class="center" type="text" name="firstname" placeholder="Email or Username">
                     <br /><br />
-                    
-                    <input class="center" type="text" name="lastname" placeholder="Password" >
-                    <br /><br />
+                    <!--This is how we link to the next process, no?-->
+                    <a href="http://eshswebcalc-eshscompsci.rhcloud.com/login.php"
                     <input class="btn btn-primary" type="submit" value="Login">
+                    </a>
                 </form>
             </div>
         </div>
