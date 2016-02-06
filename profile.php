@@ -13,8 +13,9 @@
 	  <div class="nav">
 	    <a href="#">
 				<div class="nav-elem navbar-left" style="">ESHS WebCalculator</div>
+	    </a>
+	    <a href="stats.php"?
+			  <div class="nav-elem">Your Stats</div>
 			</a>
-			<a href="stats.php"?
-			  <div class="nav-elem" style="">Your Stats</div>
 	</body>
 </html>
