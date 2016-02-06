@@ -17,5 +17,8 @@
 	    <a href="stats.php"?
 			  <div class="nav-elem">Your Stats</div>
 			</a>
+			<a href="prof.php"?
+			  <div class="nav-elem">Your Profile</div>
+			</a>
 	</body>
 </html>
